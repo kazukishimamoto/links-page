@@ -36,6 +36,8 @@ header {
 
 header img {
   width: 6em;
+  height: 6em;
+  object-fit: cover;
   border-radius: 100%;
   border: 1px solid #fff;
   margin-bottom: .4em;
